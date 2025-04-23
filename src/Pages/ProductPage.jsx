@@ -20,7 +20,7 @@ function ProductPage() {
     fetcher
   );
 
-  const whatsappNumber = "212612345678"; // Moroccan format
+  const whatsappNumber = "212660057561"; // Moroccan format
 
   if (isLoading) {
     return (
